@@ -1,0 +1,16 @@
+total 1408
+drwxr-xr-x 1 sun31 197609     0 Apr 16 12:08 ./
+drwxr-xr-x 1 sun31 197609     0 Apr 16 12:07 ../
+drwxr-xr-x 1 sun31 197609     0 Apr 16 12:08 .git/
+-rw-r--r-- 1 sun31 197609  7788 Apr 16 12:08 .gitignore
+-rw-r--r-- 1 sun31 197609   641 Apr 16 12:08 123123.txt
+-rw-r--r-- 1 sun31 197609     0 Apr 30 15:04 3way.txt
+-rw-r--r-- 1 sun31 197609 35823 Apr 16 12:08 LICENSE
+-rw-r--r-- 1 sun31 197609   123 Apr 16 12:08 README.md
+-rw-r--r-- 1 sun31 197609    92 Apr 30 14:48 ls1.txt
+-rw-r--r-- 1 sun31 197609   708 Apr 30 13:24 new.txt
+-rw-r--r-- 1 sun31 197609   492 Apr 16 12:08 t1.txt
+-rw-r--r-- 1 sun31 197609   545 Apr 16 12:08 t2.txt
+-rw-r--r-- 1 sun31 197609   598 Apr 16 12:08 t3.txt
+-rw-r--r-- 1 sun31 197609   651 Apr 16 12:08 t4.txt
+-rw-r--r-- 1 sun31 197609   439 Apr 16 12:08 text.txt
