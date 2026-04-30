@@ -1,0 +1,10 @@
+123123.txt
+LICENSE
+README.md
+ls1.txt
+new.txt
+t1.txt
+t2.txt
+t3.txt
+t4.txt
+text.txt
