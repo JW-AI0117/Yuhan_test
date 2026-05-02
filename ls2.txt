@@ -1,6 +1,9 @@
-123adadaasdwada 테스ㅇ므:123.txt
+123adadaasdwada123.txt
 LICENSE
 README.md
+안녕하세요 저는 이재율입니다.
+LICENSE
+저는 지금 테스트 중입니다.
 ls1.txt
 ls2.txt
 new.txt
