@@ -1,0 +1,14 @@
+상욱이 바보23123.sdasdadtxt
+3way.txt
+LICENSE
+README.md
+ls1.txt
+ls2.txt
+ls3.txt
+new.txt
+t1.txt
+t2.txt
+t3.txt
+t4.txt
+text.txt
+text0501.txt
